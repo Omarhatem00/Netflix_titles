@@ -4,4 +4,4 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 
 
-link : https://netflixtitles-byzlm675neph6x6wfsl9ca.streamlit.app/
+link : https://netflixtitles-zbra3qwbvu4jf6conmgfsq.streamlit.app/
