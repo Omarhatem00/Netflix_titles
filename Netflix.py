@@ -126,6 +126,7 @@ st.title('Netflix')
 st.header('Sample Data')
 st.dataframe(df_sample, hide_index=True)
 
+#Display visualization
 st.header("Distribution of release years") 
 st.plotly_chart(fig4)
 
